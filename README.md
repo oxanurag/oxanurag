@@ -1,5 +1,5 @@
-# John Doe - Cybersecurity Expert | Ethical Hacker
-![ethiical hacker](https://res.cloudinary.com/people-matters/image/upload/fl_immutable_cache,w_624,h_351,q_auto,f_auto/v1591634442/1591634440.jpg)
+# ANURAG V T - Cybersecurity Expert | Ethical Hacker
+![ethiical hacker](https://zerodark24.com/admin/assets/images/uploads/66c566906c8d13.17394328.gif)
 Welcome to my portfolio! I'm John Doe, a passionate and certified cybersecurity expert focused on ethical hacking, penetration testing, and threat analysis. I specialize in securing systems, identifying vulnerabilities, and helping organizations improve their cybersecurity posture.
 
 ## 👨‍💻 About Me
