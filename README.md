@@ -81,10 +81,10 @@ I regularly publish articles on cybersecurity topics, including penetration test
 
 If you’d like to get in touch, feel free to reach out to me via email or connect with me on social media:
 
-- **Email**: johndoe@example.com
-- **LinkedIn**: [John Doe on LinkedIn](link-to-linkedin)
-- **GitHub**: [john-doe-github](link-to-github)
-- **Twitter**: [@john_doe](link-to-twitter)
+- **Email**: anurag568vt@gmail.com
+- **LinkedIn**: (link-to-linkedin)
+- **GitHub**: oxanurag/oxanurag
+- **Twitter**: 
 
 ---
 
